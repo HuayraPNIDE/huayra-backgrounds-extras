@@ -2,7 +2,6 @@ Source: huayra-backgrounds-extras
 Section: main
 Priority: extra
 Maintainer: Miguel Angel Garcia <miguel.garcia@gmail.com>
-Changed-By: Fernando Toledo <ragnarok@docksud.com.ar>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 #Homepage: <insert the upstream URL, if relevant>
@@ -12,3 +11,8 @@ Package: huayra-backgrounds-extras
 Architecture: all
 Depends:
 Description: Pack de fondos de pantalla extras de Huayra.
+
+Package: huayra-backgrounds-community
+Architecture: all
+Depends:
+Description: Pack de fondos de pantalla extras de Huayra hechos por la comunidad.
