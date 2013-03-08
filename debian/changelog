@@ -1,9 +1,11 @@
-huayra-backgrounds-extras (0.2+nmu1) UNRELEASED; urgency=low
+huayra-backgrounds-extras (0.3) testing; urgency=low
 
+  [ Julia Palandri ]
   * Non-maintainer upload.
   * Modified paths and xml file to work under mate 
 
- -- Julia Palandri <julia.palandri@gmail.com>  Thu, 07 Mar 2013 23:43:07 -0300
+
+ -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Fri, 08 Mar 2013 16:56:13 -0300
 
 huayra-backgrounds-extras (0.2) testing; urgency=low
 
