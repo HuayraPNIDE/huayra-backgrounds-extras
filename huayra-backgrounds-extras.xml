@@ -1,49 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
 <wallpapers>
+
   <wallpaper>
-    <name>Bichos Azules</name>
+    <name>Bichos azules</name>
     <filename>/usr/share/images/huayra-backgrounds-extras/bichos_azules.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Huayra cielo</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_cielo.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Huayra vaca</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_vaca.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Huayra pampa</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_pampa.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Vaca piloto</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/vaca_piloto.jpg</filename>
   </wallpaper>
   <wallpaper>
     <name>Chacabuco</name>
     <filename>/usr/share/images/huayra-backgrounds-extras/chacabuco.jpg</filename>
   </wallpaper>
   <wallpaper>
-    <name>Fantasmas</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/fantasmas.jpg</filename>
-  </wallpaper>
-  <wallpaper>
     <name>Granadero</name>
     <filename>/usr/share/images/huayra-backgrounds-extras/granadero.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra Psicodelic</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_psicodelic.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra Vaca</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_vaca.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Invaders</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/invaders.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Molino</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/molino.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Nave</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/nave.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Oficial 1</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/oficial_1.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Otonal</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/otonal.jpg</filename>
   </wallpaper>
   <wallpaper>
     <name>Rayada</name>
@@ -54,51 +39,103 @@
     <filename>/usr/share/images/huayra-backgrounds-extras/soler.jpg</filename>
   </wallpaper>
   <wallpaper>
+    <name>Chapas</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/chapas.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Desmoronamiento</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/desmoronamiento.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Destrucción</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/destruccion.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Envolvente</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/envolvente.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Tilcara</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/tilcara.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Zonda</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/zonda.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Urbanidad</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/urbanidad.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Otoñal</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/otonal.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Fantasmas</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/fantasmas.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Invaders</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/invaders.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Tron</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/tron.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Agarrate</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/agarrate.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Vaca suelta</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/vaca_suelta.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Ventilador</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/ventilador.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Grub</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/grub.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Huayra joven</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_joven.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Huayra psicodelic</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_psicodelic.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Huayra Conectar Oficial</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_conectar_oficial.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Huayra líneas</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_lineas.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Huayra vuelan 1</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_vuelan_1.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Huayra vuelan 2</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_vuelan_2.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Molino</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/molino.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Nave</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/nave.jpg</filename>
+  </wallpaper>
+  <wallpaper>
     <name>Vaca</name>
     <filename>/usr/share/images/huayra-backgrounds-extras/vaca.jpg</filename>
   </wallpaper>
   <wallpaper>
-    <name>Vaca Piloto</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vaca_piloto.jpg</filename>
-  </wallpaper>
-  <wallpaper>
     <name>Velero</name>
     <filename>/usr/share/images/huayra-backgrounds-extras/velero.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Vuelan 1</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vuelan_1.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Vuelan 2</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vuelan_2.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Vuelan 3</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vuelan_3.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Vuelan 4</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vuelan_4.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Vuelan 5.1</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vuelan_5.1.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Vuelan 6.1</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vuelan_6.1.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Vuelan 7.1</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vuelan_7.1.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Wichi Tron</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/wichi_tron.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Cabeza de ventilador</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/cabeza_ventilador.jpg</filename>
   </wallpaper>
 </wallpapers>
