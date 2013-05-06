@@ -138,4 +138,8 @@
     <name>Velero</name>
     <filename>/usr/share/images/huayra-backgrounds-extras/velero.jpg</filename>
   </wallpaper>
+  <wallpaper>
+    <name>Huayra Motion</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_motion.jpg</filename>
+  </wallpaper>
 </wallpapers>
