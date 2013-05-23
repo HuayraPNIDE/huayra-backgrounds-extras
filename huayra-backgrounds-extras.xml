@@ -142,4 +142,24 @@
     <name>Huayra Motion</name>
     <filename>/usr/share/images/huayra-backgrounds-extras/huayra_motion.jpg</filename>
   </wallpaper>
+  <wallpaper>
+    <name>Viajero 1</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/viajero1_1024x600.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Viajero 2</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/viajero2_1024x600.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Viajero 3</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/viajero3_1024x600.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Viajero 4</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/viajero4_1024x600.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Viajero 5</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/viajero5_1024x600.jpg</filename>
+  </wallpaper>
 </wallpapers>
