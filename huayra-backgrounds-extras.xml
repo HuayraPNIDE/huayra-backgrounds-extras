@@ -162,4 +162,9 @@
     <name>Viajero 5</name>
     <filename>/usr/share/images/huayra-backgrounds-extras/viajero5_1024x600.jpg</filename>
   </wallpaper>
+  <wallpaper>
+    <name>Huayra Involucion</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_involucion_1024x600.jpg</filename>
+  </wallpaper>
+
 </wallpapers>
