@@ -166,5 +166,16 @@
     <name>Huayra Involucion</name>
     <filename>/usr/share/images/huayra-backgrounds-extras/huayra_involucion_1024x600.jpg</filename>
   </wallpaper>
-
+  <wallpaper>
+    <name>Huayra Tron</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_tron_1024x600.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Huayra Mosaicos</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_mosaicos_1024x600.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Oesterheld</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/23-julio_nacimiento-oesterheld.jpg</filename>
+  </wallpaper>
 </wallpapers>
