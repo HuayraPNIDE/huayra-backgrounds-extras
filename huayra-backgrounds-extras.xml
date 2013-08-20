@@ -178,4 +178,20 @@
     <name>Oesterheld</name>
     <filename>/usr/share/images/huayra-backgrounds-extras/23-julio_nacimiento-oesterheld.jpg</filename>
   </wallpaper>
+  <wallpaper>
+    <name>San Martín</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/17-agosto_san-martin.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Pachamama</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/01-agosto_pachamama.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>25 de Mayo</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/25-mayo.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>9 de Julio</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_independencia_1024x600.jpg</filename>
+  </wallpaper>
 </wallpapers>
