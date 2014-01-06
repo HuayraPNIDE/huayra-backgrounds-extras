@@ -194,4 +194,13 @@
     <name>9 de Julio</name>
     <filename>/usr/share/images/huayra-backgrounds-extras/huayra_independencia_1024x600.jpg</filename>
   </wallpaper>
+  <wallpaper>
+    <name>Vaca Volando - Martin Eschoyez</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/vaca_volando_1024x600.jpg</filename>
+  </wallpaper>
+  <wallpaper>
+    <name>Vaca Volando B - Martin Eschoyez</name>
+    <filename>/usr/share/images/huayra-backgrounds-extras/vaca_volando_1024x600B.jpg</filename>
+  </wallpaper>
+
 </wallpapers>
