@@ -1,3 +1,15 @@
+huayra-backgrounds-extras (0.6) unstable; urgency=low
+
+  * fondos de burda
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Mon, 03 Feb 2014 17:27:34 -0300
+
+huayra-backgrounds-extras (0.5) testing; urgency=low
+
+  * nuevos backgrounds de Pablo Lizardo
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 06 Jun 2013 12:07:46 -0300
+
 huayra-backgrounds-extras (0.4+nmu2) testing; urgency=low
 
   * Se unifican permisos de las imágenes 
