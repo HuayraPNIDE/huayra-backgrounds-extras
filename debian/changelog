@@ -1,3 +1,9 @@
+huayra-backgrounds-extras (0.7) unstable; urgency=medium
+
+  * Reestructuración del paquete. Fondos en múltiples resoluciones. Emprolijé el xml de backgrounds-extras y agregué el de community.
+
+ -- Ivan Hoffmann <digitalh@huayra>  Mon, 24 Feb 2014 16:34:20 -0300
+
 huayra-backgrounds-extras (0.6) unstable; urgency=low
 
   * fondos de burda
