@@ -1,0 +1,12 @@
+<background>
+	<static>
+		<duration>100.0</duration>
+		<file>
+			<size width="1024" height="600">/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/vaca_volando_b/1024x600.jpg</size>
+			<size width="1280" height="720">/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/vaca_volando_b/1280x720.jpg</size>
+			<size width="1366" height="768">/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/vaca_volando_b/1366x768.jpg</size>
+			<size width="1440" height="900">/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/vaca_volando_b/1440x900.jpg</size>
+			<size width="1920" height="1080">/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/vaca_volando_b/1920x1080.jpg</size>
+		</file>
+	</static>
+</background>

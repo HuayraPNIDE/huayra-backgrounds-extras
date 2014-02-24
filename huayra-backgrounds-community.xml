@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+	<!-- Huayra Comunidad -->
+	<wallpaper deleted="false">
+		<name>Huayra Comunidad - Huayra Argentina (Federico Gazaba)</name>
+		<filename>/usr/share/images/huayra-backgrounds-community/Huayra-Argentina.jpg</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Huayra Comunidad - Huayra B/N (Federico Gazaba)</name>
+		<filename>/usr/share/images/huayra-backgrounds-community/Huayra-BN.jpg</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Huayra Comunidad - Huayra Cielo (Federico Gazaba)</name>
+		<filename>/usr/share/images/huayra-backgrounds-community/Huayra-cielo.jpg</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Huayra Comunidad - Huayra Concepto (Federico Gazaba)</name>
+		<filename>/usr/share/images/huayra-backgrounds-community/Huayra-concepto.jpg</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+</wallpapers>

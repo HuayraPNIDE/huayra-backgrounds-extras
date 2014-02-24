@@ -1,0 +1,10 @@
+<background>
+	<static>
+		<duration>100.0</duration>
+		<file>
+			<size width="800" height="600">/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/rayada/800x600.jpg</size>
+			<size width="1024" height="600">/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/rayada/1024x600.jpg</size>
+			<size width="1024" height="768">/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/rayada/1024x768.jpg</size>
+		</file>
+	</static>
+</background>

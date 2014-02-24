@@ -1,206 +1,429 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
 <wallpapers>
-
-  <wallpaper>
-    <name>Bichos azules</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/bichos_azules.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra cielo</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_cielo.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra vaca</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_vaca.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra pampa</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_pampa.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Vaca piloto</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vaca_piloto.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Chacabuco</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/chacabuco.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Granadero</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/granadero.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Rayada</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/rayada.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Soler</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/soler.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Chapas</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/chapas.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Desmoronamiento</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/desmoronamiento.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Destrucción</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/destruccion.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Envolvente</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/envolvente.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Tilcara</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/tilcara.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Zonda</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/zonda.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Urbanidad</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/urbanidad.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Otoñal</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/otonal.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Fantasmas</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/fantasmas.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Invaders</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/invaders.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Tron</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/tron.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Agarrate</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/agarrate.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Vaca suelta</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vaca_suelta.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Ventilador</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/ventilador.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Grub</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/grub.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra joven</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_joven.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra psicodelic</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_psicodelic.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra Conectar Oficial</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_conectar_oficial.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra líneas</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_lineas.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra vuelan 1</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_vuelan_1.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra vuelan 2</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_vuelan_2.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Molino</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/molino.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Nave</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/nave.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Vaca</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vaca.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Velero</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/velero.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra Motion</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_motion.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Viajero 1</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/viajero1_1024x600.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Viajero 2</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/viajero2_1024x600.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Viajero 3</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/viajero3_1024x600.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Viajero 4</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/viajero4_1024x600.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Viajero 5</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/viajero5_1024x600.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra Involucion</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_involucion_1024x600.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra Tron</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_tron_1024x600.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Huayra Mosaicos</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_mosaicos_1024x600.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Oesterheld</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/23-julio_nacimiento-oesterheld.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>San Martín</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/17-agosto_san-martin.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Pachamama</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/01-agosto_pachamama.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>25 de Mayo</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/25-mayo.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>9 de Julio</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/huayra_independencia_1024x600.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Vaca Volando - Martin Eschoyez</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vaca_volando_1024x600.jpg</filename>
-  </wallpaper>
-  <wallpaper>
-    <name>Vaca Volando B - Martin Eschoyez</name>
-    <filename>/usr/share/images/huayra-backgrounds-extras/vaca_volando_1024x600B.jpg</filename>
-  </wallpaper>
-
+	<!-- Serie Abstracto -->
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Baigorria</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/baigorria/baigorria.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Cabral</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/cabral/cabral.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Chapas</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/chapas/chapas.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Deconstrucción</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/deconstruccion/deconstruccion.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Desmoronamiento</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/desmoronamiento/desmoronamiento.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Envolvente</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/envolvente/envolvente.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Huayra Vuelan</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/huayra_vuelan/huayra_vuelan.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Huayra Vuelan 2</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/huayra_vuelan_2/huayra_vuelan_2.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Rayada</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/rayada/rayada.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Soler</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/soler/soler.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Tilcara</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/tilcara/tilcara.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Urbanidad</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/urbanidad/urbanidad.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Abstracto - Zonda</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/zonda/zonda.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<!-- Serie Bits -->
+	<wallpaper deleted="false">
+		<name>Serie Bits - Fantasmas Wichi</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bits/fantasmas_wichi/fantasmas_wichi.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Bits - Invasores</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bits/invasores/invasores.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Bits - Laberintos</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bits/laberintos/laberintos.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<!-- Serie Burda -->
+	<wallpaper deleted="false">
+		<name>Serie Burda - Hiperchurros</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/hiperchurros/hiperchurros.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Burda - Il Nonnino</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/il_nonnino/il_nonnino.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Burda - Metropolis Station</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/metropolis_station/metropolis_station.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Burda - Nave bosque</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/nave_bosque/nave_bosque.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Burda - Pueblito Bradbury</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/pueblito_bradbury/pueblito_bradbury.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Burda - Puerto</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/puerto/puerto.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Burda - Trenes</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/trenes/trenes.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Burda - Tunel</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/tunel/tunel.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Burda - Vehículo Topo</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/vehiculo_topo/vehiculo_topo.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Burda - Yeyo in the smog</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/yeyo_in_the_smog/yeyo_in_the_smog.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<!-- Serie Collages -->
+	<wallpaper deleted="false">
+		<name>Serie Collages - Agarrate</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/collages/agarrate/agarrate.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Collages - Algo tiene que pasar</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/collages/algo_tiene_que_pasar/algo_tiene_que_pasar.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Collages - Huayra en mi cabeza</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/collages/huayra_en_mi_cabeza/huayra_en_mi_cabeza.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Collages - Vaca suelta</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/collages/vaca_suelta/vaca_suelta.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<!-- Serie Experimental -->
+	<wallpaper deleted="false">
+		<name>Serie Collages - Experiencia Huayra</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/experimental/experiencia_huayra/experiencia_huayra.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Collages - Huayra Motion</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/experimental/huayra_motion/huayra_motion.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Collages - Huayra Pandora</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/experimental/huayra_pandora/huayra_pandora.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Collages - Involución</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/experimental/involucion/involucion.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Collages - Mosaicos</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/experimental/mosaicos/mosaicos.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<!-- Serie Figurativo -->
+	<wallpaper deleted="false">
+		<name>Serie Figurativo - Comunidad al Viento</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/comunidad_al_viento/comunidad_al_viento.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Figurativo - Esperando</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/esperando/esperando.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Figurativo - Las vacas vuelan</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/las_vacas_vuelan/las_vacas_vuelan.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Figurativo - Ocre</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/ocre/ocre.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Figurativo - Vaca Volando (Martín Eschoyez)</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/vaca_volando/vaca_volando.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Figurativo - Vaca Volando B (Martín Eschoyez)</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/vaca_volando_b/vaca_volando_b.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Figurativo - Viento azul</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/viento_azul/viento_azul.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<!-- Serie Origami -->
+	<wallpaper deleted="false">
+		<name>Serie Origami - Molino</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/origami/molino/molino.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Origami - Nave</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/origami/nave/nave.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Origami - Vaca</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/origami/vaca/vaca.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Origami - Velero</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/origami/velero/velero.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<!-- Serie Pelis -->
+	<wallpaper deleted="false">
+		<name>Serie Pelis - Tron</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/pelis/tron/tron.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<!-- Serie Viajero -->
+	<wallpaper deleted="false">
+		<name>Serie Viajero - Viajero 1</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/viajero/viajero1/viajero1.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Viajero - Viajero 2</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/viajero/viajero2/viajero2.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Viajero - Viajero 3</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/viajero/viajero3/viajero3.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Viajero - Viajero 4</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/viajero/viajero4/viajero4.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Viajero - Viajero 5</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/viajero/viajero5/viajero5.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
 </wallpapers>
