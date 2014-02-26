@@ -426,4 +426,37 @@
 		<pcolor>#000000000000</pcolor>
 		<scolor>#000000000000</scolor>
 	</wallpaper>
+	<!-- Serie Regionales -->
+	<wallpaper deleted="false">
+		<name>Serie Regionales - Cuyo</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/regionales/cuyo/cuyo.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Regionales - Mesopotamia</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/regionales/mesopotamia/mesopotamia.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Regionales - Pampa</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/regionales/pampa/pampa.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie Regionales - Patagonia</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/regionales/patagonia/patagonia.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
 </wallpapers>
