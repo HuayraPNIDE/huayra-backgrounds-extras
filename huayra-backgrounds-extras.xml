@@ -459,4 +459,109 @@
 		<pcolor>#000000000000</pcolor>
 		<scolor>#000000000000</scolor>
 	</wallpaper>
+	<!-- Serie De Jong -->
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Light Paint 01</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/light_paint_01/light_paint_01.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Light Paint 02</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/light_paint_02/light_paint_02.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Light Paint 03</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/light_paint_03/light_paint_03.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Red Fractal 01</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/red_fractal_01/red_fractal_01.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Red Fractal 02</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/red_fractal_02/red_fractal_02.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Red Fractal 03</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/red_fractal_03/red_fractal_03.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Sketch 01</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/sketch_01/sketch_01.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Sketch 02</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/sketch_02/sketch_02.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Sketch 03</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/sketch_03/sketch_03.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Sketch 04</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/sketch_04/sketch_04.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Sketch 05</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/sketch_05/sketch_05.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Sketch 06</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/sketch_06/sketch_06.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Serie De Jong - Terminal Huayra</name>
+		<filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/de_jong/terminal/terminal.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
 </wallpapers>
