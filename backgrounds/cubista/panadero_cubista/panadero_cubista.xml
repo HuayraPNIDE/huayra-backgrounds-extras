@@ -1,0 +1,11 @@
+<background>
+	<static>
+		<duration>100.0</duration>
+		<file>
+			<size width="1024" height="600">/usr/share/images/huayra-backgrounds-extras/backgrounds/cubista/panadero_cubista/1024x600.jpg</size>
+			<size width="1280" height="720">/usr/share/images/huayra-backgrounds-extras/backgrounds/cubista/panadero_cubista/1280x720.jpg</size>
+			<size width="1366" height="768">/usr/share/images/huayra-backgrounds-extras/backgrounds/cubista/panadero_cubista/1366x768.jpg</size>
+			<size width="1920" height="1080">/usr/share/images/huayra-backgrounds-extras/backgrounds/cubista/panadero_cubista/1920x1080.jpg</size>
+		</file>
+	</static>
+</background>
