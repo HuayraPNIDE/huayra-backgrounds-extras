@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Bits -->
+    <wallpaper deleted="false">
+        <name>Serie Bits - Fantasmas Wichi</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bits/fantasmas_wichi/fantasmas_wichi.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Bits - Invasores</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bits/invasores/invasores.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Bits - Laberintos</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bits/laberintos/laberintos.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+</wallpapers>

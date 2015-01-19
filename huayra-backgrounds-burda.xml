@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Burda -->
+    <wallpaper deleted="false">
+        <name>Serie Burda - Hiperchurros</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/hiperchurros/hiperchurros.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Burda - Il Nonnino</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/il_nonnino/il_nonnino.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Burda - Metropolis Station</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/metropolis_station/metropolis_station.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Burda - Nave bosque</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/nave_bosque/nave_bosque.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Burda - Pueblito Bradbury</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/pueblito_bradbury/pueblito_bradbury.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Burda - Puerto</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/puerto/puerto.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Burda - Trenes</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/trenes/trenes.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Burda - Tunel</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/tunel/tunel.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Burda - Vehículo Topo</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/vehiculo_topo/vehiculo_topo.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Burda - Yeyo in the smog</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/burda/yeyo_in_the_smog/yeyo_in_the_smog.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+</wallpapers>

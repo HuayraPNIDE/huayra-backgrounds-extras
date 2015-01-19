@@ -7,12 +7,205 @@ Standards-Version: 3.9.3
 Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
 Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
-Package: huayra-backgrounds-extras
+Package: huayra-backgrounds-extras-all
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends},
+    huayra-backgrounds-abstracto,
+    huayra-backgrounds-bits,
+    huayra-backgrounds-burda,
+    huayra-backgrounds-collages,
+    huayra-backgrounds-cubista,
+    huayra-backgrounds-de-jong,
+    huayra-backgrounds-experimental,
+    huayra-backgrounds-figurativo,
+    huayra-backgrounds-naturaleza,
+    huayra-backgrounds-origami,
+    huayra-backgrounds-pelis,
+    huayra-backgrounds-regionales,
+    huayra-backgrounds-viajero
+Description: Todos los fondos de pantalla extras de Huayra.
+ Este paquete (dummy) instalará todos los fondos de escritorio de
+ Huayra GNU/Linux.
+
+Package: huayra-backgrounds-abstracto
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
 Architecture: all
 Depends: ${misc:Depends}
-Description: Pack de fondos de pantalla extras de Huayra.
- Fondos de escritorio en diferentes resolusiones, agrupados por tema.
+Description: Fondos de pantalla serie Abstracto.
+ Este paquete instala la serie Abstracto de los fondos de pantalla de
+ Huayra GNU/Linux.
+ En esta serie buscamos trabajar la idea de innovación y soberanía tecnológica.
+ Estas imágenes están inspiradas en el Arte concreto argentino de la década de
+ 1940. Se trata de una corriente de abstracción geométrica que postula que el
+ arte no debe representar o copiar la realidad. La obra de arte autónoma es una
+ realidad en sí misma: pura invención a partir de los elementos específicos del
+ lenguaje visual. Es un homenaje a maestros como Carmelo Arden Quin, Tomás
+ Maldonado y Lidy Prati, entre otros. También se incluyeron referencias formales
+ geométricas a mitogramas de culturas del noroeste argentino. Otra serie de
+ imágenes abstractas  vinculadas a las batallas de la independencia, trabajadas
+ con una paleta de color alusiva al uniforme de los granaderos. Se busca evocar
+ el dinamismo y caos de los combates a caballo.
 
+Package: huayra-backgrounds-bits
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Bits.
+ Este paquete instala la serie Bits de los fondos de pantalla de
+ Huayra GNU/Linux.
+ Proponemos una fusión entre las formas geométricas de mitogramas de pueblos
+ originarios y la estética de los videojuegos clásicos de los años '80s como
+ Pacman, Tron o Space Invaders. Los bits se combinan uniendo épocas y culturas
+ en una constante transformación.
+ 
+Package: huayra-backgrounds-burda
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Burda.
+ Este paquete instala la serie Burda de los fondos de pantalla de
+ Huayra GNU/Linux, realizados por Alejandro Burdisio.
+ Ilustraciones cedidas gentilmente por Alejandro Burdisio.
+ Alejandro (más conocido como "Burda") es cordobés y dibuja desde que tiene
+ memoria. Trabaja profesionalmente como ilustrador tanto para el rubro de la
+ arquitectura desde hace más de veinte años, como para diarios y diversos
+ proyectos editoriales, además participa como conceptualizador de arte visual
+ para empresas de video juegos, animaciones, cortometrajes y películas.
+ Y como buen cordobés, se rinde ante el humor. No desde hace muchos años,
+ comenzó a incursionar en el humor gráfico y en historietas. En estas últimas
+ facetas se encuentra publicando en la actualidad en la revista “La Murciélaga”,
+ mientras que en 2010 se editó su primer libro, “Mundo Burda”.
+ 
+Package: huayra-backgrounds-collages
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Collages.
+ Este paquete instala la serie Collages de los fondos de pantalla de
+ Huayra GNU/Linux.
+ ¿Cómo transformar y subvertir el sentido corriente de las cosas? Los collage
+ son ensamblados de elementos diversos, fragmentos de la realidad que se
+ superponen con imágenes inventadas para buscar nuevos rumbos y significados.
+ 
+Package: huayra-backgrounds-cubista
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Cubista.
+ Este paquete instala la serie Cubista de los fondos de pantalla de
+ Huayra GNU/Linux. 
+ Esta serie está inspirada en el movimiento Cubista  de principios de Siglo XX,
+ nacido en Francia y encabezado por Pablo Picasso, Georges Brauque y Juan Gris.
+ Para su realización utilizamos GIMP con el módulo G'MIC, que agrega una gran
+ cantidad de filtros y funciones avanzadas.
+ 
+Package: huayra-backgrounds-de-jong
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie De Jong.
+ Este paquete instala la serie De Jong de los fondos de pantalla de             
+ Huayra GNU/Linux.
+ Serie de fondos creados a partir de imágenes generadas por el programa Fyre,
+ que renderiza mapas de Peter de Jong y luego manipuladas en GIMP.
+ 
+Package: huayra-backgrounds-experimental
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Experimental.
+ Este paquete instala la serie Experimental de los fondos de pantalla de
+ Huayra GNU/Linux.
+ Imágenes vinculadas a diferentes propuestas gráficas en torno al logo de
+ Huayra.Trabajos con diferentes texturas plásticas y referencias a actividades
+ vinculadas al uso de la netbook.
+ 
+Package: huayra-backgrounds-figurativo
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Figurativo.
+ Este paquete instala la serie Figurativo de los fondos de pantalla de
+ Huayra GNU/Linux.
+ El viento es una corriente de aire informe que solo podemos observar y apreciar
+ en relación a otros objetos. Así,  podemos ver cómo el viento empuja las hojas
+ del piso, sacude las ramas de un árbol o disemina las semillas una planta.
+ En estas imágenes trabajamos en torno a situaciones de objetos o personas
+ afectadas por el viento. Una brisa delicada y etérea impulsa a un panadero y lo
+ levanta para dar un paseo por el aire. O una ráfaga poderosa quebranta la ley
+ de la gravedad y arrastra todo con fuerza hacia el cielo. 
+ ¡El ímpetu de Huayra hace que los humanos y hasta las vacas vuelen!
+ 
+Package: huayra-backgrounds-naturaleza
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Naturaleza.
+ Este paquete instala la serie Naturaleza de los fondos de pantalla de
+ Huayra GNU/Linux.
+ Fotografías de Iván Hoffmann.
+ 
+Package: huayra-backgrounds-origami
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Origami.
+ Este paquete instala la serie Origami de los fondos de pantalla de
+ Huayra GNU/Linux.
+ En el arte del origami los objetos son creados a partir de la misma hoja de
+ papel. La diferencia está en cómo plegarlo y el orden de las formas que se
+ suceden.
+ Proponemos maneras de movilizarse usando el viento, de hacer del viento tu
+ fuerza y guía. Un avión, un molino, un velero... una vaca!
+ 
+Package: huayra-backgrounds-pelis
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Pelis.
+ Este paquete instala la serie Pelis de los fondos de pantalla de
+ Huayra GNU/Linux.
+ 
+Package: huayra-backgrounds-regionales
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Regionales.
+ Este paquete instala la serie Regionales de los fondos de pantalla de
+ Huayra GNU/Linux.
+ Cada región de nuestro país se caracteriza por su gente, su música, su
+ geografía, sus comidas y también por sus colores.
+ En esta serie buscamos sintetizar esas paletas que nos identifican.
+ Buscate en tus colores.
+ 
+Package: huayra-backgrounds-viajero
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Viajero.
+ Este paquete instala la serie Viajero de los fondos de pantalla de
+ Huayra GNU/Linux.
+ "Viajero" es un proyecto de videojuego experimental creado por Pablo Lizardo,
+ desarrollado íntegramente con Software Libre (Inkscape para conceptos, Gimp
+ para texturas y Blender para interacción).
+ En medio de un entorno de soledad y misterio nuestro personaje buscará sortear
+ las dificultades y entender el porqué de su existencia. 
+ 
 Package: huayra-backgrounds-community
 Architecture: all
 Depends: ${misc:Depends}

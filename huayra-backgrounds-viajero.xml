@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Viajero -->
+    <wallpaper deleted="false">
+        <name>Serie Viajero - Viajero 1</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/viajero/viajero1/viajero1.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Viajero - Viajero 2</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/viajero/viajero2/viajero2.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Viajero - Viajero 3</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/viajero/viajero3/viajero3.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Viajero - Viajero 4</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/viajero/viajero4/viajero4.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Viajero - Viajero 5</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/viajero/viajero5/viajero5.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+</wallpapers>

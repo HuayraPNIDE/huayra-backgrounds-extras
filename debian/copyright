@@ -5,11 +5,12 @@ Source: <http://huayra.conectarigualdad.gob.ar/>
 Files: *
 Copyright: 2013 Claudio "malefico" Andaur
            2013 Iván "digitalh" Hoffmann
-		   2013 Carolina "chinchi" Hortal
+           2013 Carolina "chinchi" Hortal
 License: CC 3.0 BY SA Argentina
 
 Files: debian/*
 Copyright: 2012 Miguel Angel Garcia <miguel.garcia@gmail.com>
+           2014 Iván Hoffmann <digital.h@gmail.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Abstracto -->
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Baigorria</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/baigorria/baigorria.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Cabral</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/cabral/cabral.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Chapas</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/chapas/chapas.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Deconstrucción</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/deconstruccion/deconstruccion.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Desmoronamiento</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/desmoronamiento/desmoronamiento.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Envolvente</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/envolvente/envolvente.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Huayra Vuelan</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/huayra_vuelan/huayra_vuelan.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Huayra Vuelan 2</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/huayra_vuelan_2/huayra_vuelan_2.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Rayada</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/rayada/rayada.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Soler</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/soler/soler.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Tilcara</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/tilcara/tilcara.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Urbanidad</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/urbanidad/urbanidad.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Abstracto - Zonda</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/abstracto/zonda/zonda.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+</wallpapers>

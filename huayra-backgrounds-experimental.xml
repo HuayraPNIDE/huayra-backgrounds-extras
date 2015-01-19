@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Experimental -->
+    <wallpaper deleted="false">
+        <name>Serie Collages - Experiencia Huayra</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/experimental/experiencia_huayra/experiencia_huayra.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Collages - Huayra Motion</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/experimental/huayra_motion/huayra_motion.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Collages - Huayra Pandora</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/experimental/huayra_pandora/huayra_pandora.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Collages - Involución</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/experimental/involucion/involucion.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Collages - Mosaicos</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/experimental/mosaicos/mosaicos.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+</wallpapers>
