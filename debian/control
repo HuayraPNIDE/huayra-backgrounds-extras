@@ -24,7 +24,8 @@ Depends: ${misc:Depends},
     huayra-backgrounds-origami,
     huayra-backgrounds-pelis,
     huayra-backgrounds-regionales,
-    huayra-backgrounds-viajero
+    huayra-backgrounds-viajero,
+    huayra-backgrounds-liso
 Description: Todos los fondos de pantalla extras de Huayra.
  Este paquete (dummy) instalará todos los fondos de escritorio de
  Huayra GNU/Linux.
@@ -205,6 +206,16 @@ Description: Fondos de pantalla serie Viajero.
  para texturas y Blender para interacción).
  En medio de un entorno de soledad y misterio nuestro personaje buscará sortear
  las dificultades y entender el porqué de su existencia. 
+
+Package: huayra-backgrounds-liso
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Liso.
+ Este paquete instala la serie Liso de los fondos de pantalla de
+ Huayra GNU/Linux.
+ Esta es la serie oficial de Huayra 3.0.
  
 Package: huayra-backgrounds-community
 Architecture: all
