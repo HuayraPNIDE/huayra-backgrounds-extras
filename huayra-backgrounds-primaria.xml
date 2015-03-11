@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Primaria -->
+    <wallpaper deleted="false">
+        <name>Serie Primaria - Camino</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/primaria/camino/camino.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Primaria - Esfera</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/primaria/esfera/esfera.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Primaria - Pupitre</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/primaria/pupitre/pupitre.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+</wallpapers>

@@ -25,7 +25,8 @@ Depends: ${misc:Depends},
     huayra-backgrounds-pelis,
     huayra-backgrounds-regionales,
     huayra-backgrounds-viajero,
-    huayra-backgrounds-liso
+    huayra-backgrounds-liso,
+    huayra-backgrounds-primaria
 Description: Todos los fondos de pantalla extras de Huayra.
  Este paquete (dummy) instalará todos los fondos de escritorio de
  Huayra GNU/Linux.
@@ -216,6 +217,13 @@ Description: Fondos de pantalla serie Liso.
  Este paquete instala la serie Liso de los fondos de pantalla de
  Huayra GNU/Linux.
  Esta es la serie oficial de Huayra 3.0.
+
+Package: huayra-backgrounds-primaria
+Breaks: huayra-backgrounds-extras ( <= 0.9)
+Replaces: huayra-backgrounds-extras ( <= 0.9)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Primaria.
  
 Package: huayra-backgrounds-community
 Architecture: all
